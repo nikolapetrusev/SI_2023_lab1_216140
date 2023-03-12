@@ -1,0 +1,36 @@
+commit e662e5ab8f55ea781f9ad939bae2fd175131ea6b
+Author: nikolapetrusev <nikola.petrushev@students.finki.ukim.mk>
+Date:   Sun Mar 12 14:44:34 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 4cdf9630c330abc3734313a9a9b30797aae4a9b0
+Merge: b3d92f8 f8ecb7d
+Author: nikolapetrusev <nikola.petrushev@students.finki.ukim.mk>
+Date:   Sun Mar 12 14:48:12 2023 +0100
+
+    Merge branch 'bug2'
+
+commit f8ecb7dc52ee6af007b0600b7144037af62b4419
+Author: nikolapetrusev <nikola.petrushev@students.finki.ukim.mk>
+Date:   Sun Mar 12 14:43:57 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit b3d92f8888298d4a58bce626619f94ad4b8b94f5
+Author: nikolapetrusev <nikola.petrushev@students.finki.ukim.mk>
+Date:   Sun Mar 12 14:43:25 2023 +0100
+
+    Fix wrong loop for reading
+
+commit 855f91a70747067a9af3ce4b781e621ec4677b66
+Author: nikolapetrusev <nikola.petrushev@students.finki.ukim.mk>
+Date:   Sun Mar 12 14:42:16 2023 +0100
+
+    Initial commit
+
+commit 47a7a03cdbdc748630f9f958cc6c49c867c3759b
+Author: nikolapetrusev <nikola.petrushev@students.finki.ukim.mk>
+Date:   Sun Mar 12 14:40:29 2023 +0100
+
+    Add java class
